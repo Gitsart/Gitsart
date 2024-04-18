@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gitsart
 - 👀 I’m interested in EmbeddedSystems
 - 🌱 I’m currently learning EmbeddedRobotics
-- 💞️ I’m looking to collaborate on ElectronicSoftware
+- 💞️ I’m looking to collaborate on Micro-controller based Electronic Hardware & Software Development
 - 📫 How to reach me GitMe
 
 <!---
